@@ -1,0 +1,32 @@
+            {
+                "widget_list": [
+                    {
+                        "id": "1",
+                        "icon_url": "https://cdn-icons-png.flaticon.com/512/2838/2838912.png",
+                        "title": "Sample Widget 1",
+                        "cta": "Open",
+                        "intent_action": "com.glance.action.wallpaper"
+                    },
+                    {
+                        "id": "2",
+                        "icon_url": "https://cdn-icons-png.flaticon.com/512/2838/2838912.png",
+                        "title": "Sample Widget 2",
+                        "cta": "Learn More",
+                        "intent_action": "glance://surface_art"
+                    },
+                    {
+                        "id": "3",
+                        "icon_url": "https://cdn-icons-png.flaticon.com/512/2838/2838912.png",
+                        "title": "Sample Widget 3",
+                        "cta": "Learn More",
+                        "intent_action": "glanceai://click.glance.com"
+                    },
+                    {
+                        "id": "4",
+                        "icon_url": "https://cdn-icons-png.flaticon.com/512/2838/2838912.png",
+                        "title": "Sample New Widget 4",
+                        "cta": "Try Now",
+                        "intent_action": "https://www.yahoo.com/lifestyle/articles/im-mom-5-spent-years-213401416.html"
+                    }
+                ]
+            }
